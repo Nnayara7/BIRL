@@ -1,0 +1,17 @@
+
+
+OH O HOME AI PO (MONSTRO MULTIPLICAR(MONSTRO X, MONSTRO Y))
+      BORA CUMPADE X * Y;
+BIRL
+
+HORA DO SHOW
+
+      MONSTRO X, Y, AUX;
+
+      CE QUER VER ESSA PORRA? ("Digite os número para efetuar a multiplicação. !\n");
+      QUE QUE CE QUER MONSTRAO? ("%d %d", &X, &Y);
+      AUX = AJUDA O MALUCO TA DOENTE MULTIPLICAR(X, Y);
+      CE QUER VER ESSA PORRA? ("Resultado: %d\n", AUX);
+
+      BORA CUMPADE 0;
+BIRL
